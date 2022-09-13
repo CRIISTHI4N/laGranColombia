@@ -37,6 +37,20 @@ ul {
     color: black;
 }
 
+.imagen-curso {
+    width: 100%;
+}
+
+.vaciar {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #4c4135;
+}
+
 .titulo-principal {
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
